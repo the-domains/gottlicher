@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Gottlicher]]></title>
+        <description><![CDATA[Gottlicher]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 15 Jul 2016 12:42:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[BjörnandJones - Auf der Suche nach dem Goldzug der Nazis]]></title>
+            <description><![CDATA[<article><h1>BjörnandJones - Auf der Suche nach dem Goldzug der Nazis</h1><p>"BjörnandJones" ist ein Produkt der Satire des Laufburschen. Der Laufbursche ist ein deutschsprachiges Satire-Magazin. Es erscheint täglich, dafür nur online und nicht in gedruckter Form. Folgen Sie uns auf Facebook oder Twitter, wenn Sie keine aktuellen satirischen Nachrichten verpassen möchten, oder abonnieren Sie unseren Newsletter ! Der Laufbursche - Immer im Dienste des Lesers.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/2a94593e6158df12062ba16fa407a7f8/croprotate.jpg?cropheight=288&cropwidth=480&degrees=0&input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FsCGx202PjSE%2Fhqdefault.jpg&x=0&y=33"></article>]]></description>
+            <link>https://youtu.be/sCGx202PjSE</link>
+            <guid isPermaLink="false">95a89ccb-b39c-42eb-9f98-b5ff8ab442e8</guid>
+            <pubDate>Fri, 15 Jul 2016 12:42:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
