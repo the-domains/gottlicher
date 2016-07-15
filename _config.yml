@@ -1,0 +1,14 @@
+layout_spectrum: 0.9587814
+color:
+  saturation: 0.8870968
+  brandStrength: 0.4223249
+  lightness: 0.7033508
+  rhythmicContrast: 0.6021506
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+typography_spectrum: 0.2903226
+name: Gottlicher
