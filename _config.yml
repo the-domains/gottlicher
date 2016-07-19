@@ -12,3 +12,8 @@ color:
     - '#004E98'
 typography_spectrum: 0.2903226
 name: Gottlicher
+navigation:
+  - id: 2414155a-96ae-43bb-a58c-935e63062ca2
+    url: 2016-07-19-alzheimer-punt-de-focus.html
+    name: Video
+    type: content
