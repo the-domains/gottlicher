@@ -21,3 +21,7 @@ navigation:
     url: 'http://www.goettlicher-photo.com'
     name: Photography
     type: external
+  - id: www.lauf-bursche.com
+    url: www.lauf-bursche.com
+    name: Humor
+    type: external
