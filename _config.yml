@@ -11,9 +11,13 @@ color:
     - '#3A6EA5'
     - '#004E98'
 typography_spectrum: 0.2903226
-name: Gottlicher
+name: Göttlicher
 navigation:
   - id: 2414155a-96ae-43bb-a58c-935e63062ca2
     url: 2016-07-19-alzheimer-punt-de-focus.html
     name: Video
+    type: content
+  - id: d2bfb90e-0191-4bf6-9dea-b45930a8e67d
+    url: 2016-07-19-laufbursche-tv-visafreie-einreise.html
+    name: 'Laufbursche TV: Visafreie Einreise'
     type: content
