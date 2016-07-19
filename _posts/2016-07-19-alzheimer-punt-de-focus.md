@@ -24,16 +24,13 @@ description: >-
   accompany Neus and Amadeu Costa with the camera.
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  http://www.puntdefocus.com/en/portfolio/breaking-the-silence-alzheimer-the-chest-of-memory/
 title: Alzheimer " Punt de Focus
-datePublished: '2016-07-19T09:09:08.151Z'
-dateModified: '2016-07-19T09:09:08.070Z'
-starred: false
+datePublished: '2016-07-19T09:10:25.661Z'
+dateModified: '2016-07-19T09:10:25.202Z'
 sourcePath: _posts/2016-07-19-alzheimer-punt-de-focus.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: alzheimer-punt-de-focus/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
