@@ -17,3 +17,7 @@ navigation:
     url: 2016-07-19-alzheimer-punt-de-focus.html
     name: Video
     type: content
+  - id: 'http://www.goettlicher-photo.com'
+    url: 'http://www.goettlicher-photo.com'
+    name: Photography
+    type: external
