@@ -17,3 +17,7 @@ navigation:
     url: 2016-07-19-alzheimer-punt-de-focus.html
     name: Video
     type: content
+  - id: Photography
+    url: Photography
+    name: Björn Göttlicher Photography
+    type: external
