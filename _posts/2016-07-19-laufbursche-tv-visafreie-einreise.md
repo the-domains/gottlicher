@@ -55,15 +55,13 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/TjoS8EafRX8'
 title: 'Laufbursche TV: Visafreie Einreise'
-datePublished: '2016-07-19T09:09:03.604Z'
-dateModified: '2016-07-19T09:09:03.513Z'
-starred: false
+datePublished: '2016-07-19T10:15:57.095Z'
+dateModified: '2016-07-19T10:15:56.462Z'
 sourcePath: _posts/2016-07-19-laufbursche-tv-visafreie-einreise.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: laufbursche-tv-visafreie-einreise/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
