@@ -1,8 +1,18 @@
-layout_spectrum: 0.9587814
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.8870968
   brandStrength: 0.4223249
-  lightness: 0.7033508
   rhythmicContrast: 0.6021506
   brandColors:
     - '#FF6700'
@@ -10,18 +20,17 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-typography_spectrum: 0.2903226
-name: Göttlicher
+  lightness: 0.7033508
+typography_spectrum: 0.3136201
 navigation:
   - id: 2414155a-96ae-43bb-a58c-935e63062ca2
-    url: 2016-07-19-alzheimer-punt-de-focus.html
     name: Video
     type: content
-  - id: 'http://www.goettlicher-photo.com'
-    url: 'http://www.goettlicher-photo.com'
+  - url: 'http://www.goettlicher-photo.com'
     name: Photography
     type: external
-  - id: www.lauf-bursche.com
-    url: www.lauf-bursche.com
+  - url: www.lauf-bursche.com
     name: Humor
     type: external
+layout_spectrum: 1
+name: Göttlicher
