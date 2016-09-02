@@ -19,7 +19,7 @@ navigation:
   - name: Multimedia
     url: 'http://puntdefocus.com/en/'
     type: external
-  - name: Satire Magazin
+  - name: Satiremagazin
     url: 'http://lauf-bursche.com'
     type: external
 collections:
