@@ -4,8 +4,15 @@
         <description><![CDATA[Göttlicher]]></description>
         <link>https://thegrid.ai/gottlicher/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 07:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 07:31:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gottlicher/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Trailer - Like a coat of rain]]></title>
+            <description><![CDATA[<article><h1>Trailer - Like a coat of rain</h1><p>Documentary "Like a coat of rain", coming in 2016 An inhuman ritual. Generations of photographers were trying to help. Between fame and compassion. The question of ethics in photojournalism and society. The Finnish photographer Meeri Koutaniemi has received for her project "Taken" numerous awards, including the FreeLens Award and the Visa d'or Daily Press Award.</p></article>]]></description>
+            <link>https://vimeo.com/147691223</link>
+            <guid isPermaLink="false">c55b6c33-2a12-41f9-88d1-8be765c58e0b</guid>
+            <pubDate>Wed, 31 Aug 2016 07:31:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Alzheimer " Punt de Focus]]></title>
             <description><![CDATA[<article><h1>Alzheimer " Punt de Focus</h1><p>Alzheimer - The chest of memory Catalan with english subtitles At the end of their lives some people forget about their own existence. "The chest of memories" is an intimate and personal history about Alzheimer disease. We accompany Neus and Amadeu Costa with the camera.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0999c3a6ee2fb2350aeadd0da1fb22b9/noop.png?input=http%3A%2F%2Fwww.puntdefocus.com%2Fwp-content%2Fplugins%2Fsimple-share-buttons-adder%2Fbuttons%2Fsimple%2Fgoogle.png"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.goettlicher-photo.com/foto-tipps</link>
             <guid isPermaLink="false">86264e9d-714f-4c5d-a879-58d9200d1ef0</guid>
             <pubDate>Wed, 31 Aug 2016 07:14:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Publications - www.goettlicher-photo.com 2]]></title>
-            <description><![CDATA[<article><h1>Publications - www.goettlicher-photo.com 2</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/699169d4797024103ea308384aa18fb2/noop?input=http%3A%2F%2Flh3.googleusercontent.com%2F0usW185gaOSt9ghjD4WcbNkQ0L2k-S-qzjJmFtQ_kMiwruG_EhiFgcOcBW9AoNHebGjcrmXD3RUfJ8l76g%3Ds1200"></article>]]></description>
-            <link>http://www.goettlicher-photo.com/publications</link>
-            <guid isPermaLink="false">118ea9c6-884d-40eb-87cd-ca3dddb70675</guid>
-            <pubDate>Wed, 31 Aug 2016 07:14:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
