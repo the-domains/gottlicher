@@ -13,9 +13,6 @@ color:
 layout_spectrum: 1
 name: Göttlicher
 navigation:
-  - name: 'Video '
-    id: 2414155a-96ae-43bb-a58c-935e63062ca2
-    type: content
   - name: Photography
     url: 'http://www.goettlicher-photo.com'
     type: external
