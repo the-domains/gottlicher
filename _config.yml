@@ -1,3 +1,27 @@
+typography_spectrum: 0.3136201
+color:
+  saturation: 0.8870968
+  brandStrength: 0.4223249
+  rhythmicContrast: 0.6021506
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  lightness: 0.7033508
+layout_spectrum: 1
+name: Göttlicher
+navigation:
+  - name: 'Video '
+    id: 2414155a-96ae-43bb-a58c-935e63062ca2
+    type: content
+  - name: Photography
+    url: 'http://www.goettlicher-photo.com'
+    type: external
+  - name: Humor
+    url: www.lauf-bursche.com
+    type: external
 collections:
   - index:
       path: /
@@ -10,27 +34,3 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0.8870968
-  brandStrength: 0.4223249
-  rhythmicContrast: 0.6021506
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  lightness: 0.7033508
-typography_spectrum: 0.3136201
-navigation:
-  - id: 2414155a-96ae-43bb-a58c-935e63062ca2
-    name: Video
-    type: content
-  - url: 'http://www.goettlicher-photo.com'
-    name: Photography
-    type: external
-  - url: www.lauf-bursche.com
-    name: Humor
-    type: external
-layout_spectrum: 1
-name: Göttlicher
