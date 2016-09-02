@@ -22,6 +22,9 @@ navigation:
   - name: Humor
     url: www.lauf-bursche.com
     type: external
+  - name: Multimedia
+    url: 'http://puntdefocus.com/en/'
+    type: external
 collections:
   - index:
       path: /
