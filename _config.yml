@@ -16,9 +16,6 @@ navigation:
   - name: Photography
     url: 'http://www.goettlicher-photo.com'
     type: external
-  - name: Humor
-    url: www.lauf-bursche.com
-    type: external
   - name: Multimedia
     url: 'http://puntdefocus.com/en/'
     type: external
